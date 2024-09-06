@@ -10,4 +10,4 @@ Instructions:
 
 - Have Blender installed
 
-To view this project, download the .blend file in this repository and open it in Blender
+To view this project, download the .blend file in this repository and open it in Blender. Alternatively, you can view the 3D model at https://skfb.ly/pqBur
